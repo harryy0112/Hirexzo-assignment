@@ -1,4 +1,3 @@
-// src/components/Pricing.js
 import React, { useState } from "react";
 
 const Pricing = () => {
